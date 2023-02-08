@@ -36,4 +36,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Higorcabral}/count.svg" /></p> 
 <br></div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2c2c2c&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ofc3e8&height=120&section=footer"/>
